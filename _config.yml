@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: FlexiScorre # REQUIRED - Enter your app name
+  name: FlexiScore # REQUIRED - Enter your app name
   ios_id: 1511217249 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 

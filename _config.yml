@@ -43,8 +43,7 @@ app:
 # Marketing
 #
 marketing_header: Flexible Score # Optional
-marketing_desc: FlexiScore is a flexible scorekeeping app. 
-Keep score of any game that you need score totals, such as a round of golf or a card game like Shanghai. The flexible part is that you can create custom score sheets with a variable number of scores and players, your own score hints so you know, for example, the requirements for each hand in a game of cards, or the par and distance for a hole in golf.
+marketing_desc: FlexiScore is a flexible scorekeeping app. Keep score of any game that you need score totals, such as a round of golf or a card game like Shanghai. The flexible part is that you can create custom score sheets with a variable number of scores and players, your own score hints so you know, for example, the requirements for each hand in a game of cards, or the par and distance for a hole in golf.
 
 #
 # Social Links
